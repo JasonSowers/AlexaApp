@@ -1,0 +1,11 @@
+C:\Source\GitHub\AlexaSkill\AlexaPOCDataModel\bin\Debug\AlexaPOCDataModel.dll.config
+C:\Source\GitHub\AlexaSkill\AlexaPOCDataModel\bin\Debug\AlexaPOCDataModel.dll
+C:\Source\GitHub\AlexaSkill\AlexaPOCDataModel\bin\Debug\AlexaPOCDataModel.pdb
+C:\Source\GitHub\AlexaSkill\AlexaPOCDataModel\bin\Debug\EntityFramework.dll
+C:\Source\GitHub\AlexaSkill\AlexaPOCDataModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Source\GitHub\AlexaSkill\AlexaPOCDataModel\bin\Debug\Newtonsoft.Json.dll
+C:\Source\GitHub\AlexaSkill\AlexaPOCDataModel\bin\Debug\EntityFramework.xml
+C:\Source\GitHub\AlexaSkill\AlexaPOCDataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Source\GitHub\AlexaSkill\AlexaPOCDataModel\bin\Debug\Newtonsoft.Json.xml
+C:\Source\GitHub\AlexaSkill\AlexaPOCDataModel\obj\Debug\AlexaPOCDataModel.dll
+C:\Source\GitHub\AlexaSkill\AlexaPOCDataModel\obj\Debug\AlexaPOCDataModel.pdb

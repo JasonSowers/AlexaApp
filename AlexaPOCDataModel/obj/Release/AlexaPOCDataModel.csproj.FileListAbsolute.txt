@@ -1,0 +1,12 @@
+C:\Source\GitHub\AlexaSkill\AlexaPOCDataModel\obj\Release\AlexaPOCDataModel.csprojResolveAssemblyReference.cache
+C:\Source\GitHub\AlexaSkill\AlexaPOCDataModel\bin\Release\AlexaPOCDataModel.dll.config
+C:\Source\GitHub\AlexaSkill\AlexaPOCDataModel\bin\Release\AlexaPOCDataModel.dll
+C:\Source\GitHub\AlexaSkill\AlexaPOCDataModel\bin\Release\AlexaPOCDataModel.pdb
+C:\Source\GitHub\AlexaSkill\AlexaPOCDataModel\bin\Release\EntityFramework.dll
+C:\Source\GitHub\AlexaSkill\AlexaPOCDataModel\bin\Release\EntityFramework.SqlServer.dll
+C:\Source\GitHub\AlexaSkill\AlexaPOCDataModel\bin\Release\Newtonsoft.Json.dll
+C:\Source\GitHub\AlexaSkill\AlexaPOCDataModel\bin\Release\EntityFramework.xml
+C:\Source\GitHub\AlexaSkill\AlexaPOCDataModel\bin\Release\EntityFramework.SqlServer.xml
+C:\Source\GitHub\AlexaSkill\AlexaPOCDataModel\bin\Release\Newtonsoft.Json.xml
+C:\Source\GitHub\AlexaSkill\AlexaPOCDataModel\obj\Release\AlexaPOCDataModel.dll
+C:\Source\GitHub\AlexaSkill\AlexaPOCDataModel\obj\Release\AlexaPOCDataModel.pdb
